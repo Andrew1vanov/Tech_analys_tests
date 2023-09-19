@@ -18,7 +18,6 @@ def load_data(security: str):
 
 load_data('GAZP')
 load_data('LKOH')
-load_data('TKS')
 
 def guns_angels():
     print('cal')
