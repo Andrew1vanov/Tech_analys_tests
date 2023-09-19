@@ -13,6 +13,3 @@ def load_data(security: str):
     plt.show()
 
 load_data('GAZP')
-load_data('LKOH')
-
-    
